@@ -17,7 +17,7 @@ This project simulates a cart interface where items are **pre-selected**, and th
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla DOM manipulation)
+- JavaScript (Vanilla DOM manipulation, ES6, ES5)
 
 ---
 
